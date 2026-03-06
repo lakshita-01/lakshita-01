@@ -1,8 +1,9 @@
-name: generate snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,7 +13,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: lakshita-01
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
