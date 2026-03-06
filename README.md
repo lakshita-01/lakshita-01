@@ -17,7 +17,7 @@
 
 </p>
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">⚡ Tech Stack</h2>
 
@@ -48,7 +48,7 @@
 
 
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 # 🚀 Featured Projects
@@ -61,7 +61,7 @@
 | HireSense AI | ATS Resume Analyser |
 
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 # 🧠 AI Project Assistant
@@ -78,19 +78,31 @@ Try it here:
 
 https://dev-portfolio-mocha-beta.vercel.app/
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 📊 GitHub Stats
+<!--# 📊 GitHub Stats
 
-<p align="center">
+ ===================== STATS OVERVIEW ===================== 
 
-<img src="https://github-readme-stats.vercel.app/api?username=lakshita-01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshita-01&theme=tokyonight&hide_border=true"/>
+<p align="left">
+
+<img height="170" src="https://streak-stats.demolab.com?user=lakshita-01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
+<p align="right">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshita-01&theme=tokyonight"/>
+
+</p>
+
+
+<!-- ========================================================== 
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+-->
 
 # 🐍 Contribution Snake
 
@@ -98,27 +110,82 @@ https://dev-portfolio-mocha-beta.vercel.app/
 <img src="https://raw.githubusercontent.com/lakshita-01/lakshita-01/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 # 🌐 Connect With Me
 
 <p align="center">
 
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
 <a href="https://github.com/lakshita-01">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 <a href="https://dev-portfolio-mocha-beta.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
+<img src="https://skillicons.dev/icons?i=vercel" height="50"/>
 </a>
 
-<a href="https://www.linkedin.com/in/lakshita-gupta01">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 </p>
 
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p><a href="YOUR_RESUME_LINK">
+
+<img src="https://img.shields.io/badge/📄 Download Resume-2563eb?style=for-the-badge&logo=readme&logoColor=white"/>
+
+</a>
+</p>
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
+    <b>Stats Overview</b>
+
+  
+  </summary>
+
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <div align="center">
+    <span>
+      <a href="https://dev-portfolio-mocha-beta.vercel.app/">
+        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lakshita-01&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+      </a>
+    </span>
+    <span>
+      <a href="https://dev-portfolio-mocha-beta.vercel.app/">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=lakshita-01&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
+      </a>
+    </span>
+    <span>
+      <a href="https://dev-portfolio-mocha-beta.vercel.app/">
+        <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=lakshita-01&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+      </a>
+    </span>
+    <span>
+      <a href="https://dev-portfolio-mocha-beta.vercel.app/">
+        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=lakshita-01&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
+      </a>
+    </span>
+  </div>
+</details>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
 ⭐ If you like my projects, consider starring them!
