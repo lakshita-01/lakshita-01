@@ -1,16 +1,37 @@
+<p align="center">
+<img src="./assets/skyline.svg"/>
+</p>
+
 <h1 align="center">Hi 👋 I'm Lakshita Gupta</h1>
 
 <p align="center">
-AI Engineer • Backend Developer • Full Stack Builder
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Engineer;Software+Engineer&center=true&width=500&height=50">
+</p>
+
+
+# 🌍 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lakshita-01&style=for-the-badge&color=blueviolet"/>
+
 </p>
 
 ---
 
-# 🌌 Developer Matrix
+# 🧠 AI Project Assistant
 
-<p align="center">
-<img src="assets/matrix-bg.svg" width="900"/>
-</p>
+I built an **AI assistant that answers questions about my projects, tech stack, and GitHub work.**
+
+You can ask things like:
+
+- Explain DevPulse project
+- What technologies does Lakshita use
+- Show AI projects
+
+Try it here:
+
+https://dev-portfolio-mocha-beta.vercel.app/
 
 ---
 
@@ -34,52 +55,60 @@ AI Engineer • Backend Developer • Full Stack Builder
 
 </p>
 
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,django&theme=dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,mongodb,mysql,postgres&theme=dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github,vscode,postman&theme=dark" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,gcp,notion&theme=dark" />
+
+</p>
+
+
+
 ---
 
 # 🚀 Featured Projects
 
 | Project | Description |
 |-------|-------------|
-| DevPulse | Developer productivity analytics |
-| Portfolio Website | Personal dev portfolio |
+| DevPulse | Full stack project management |
+| Port.2109 | Personal dev portfolio |
 | Cold Email Optimizer | AI outreach optimization |
-| Project SaaS | Full stack project management |
+| HireSense AI | ATS Resume Analyser |
 
 ---
 
-# ⚙️ Tech Stack
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+<a href="https://github.com/lakshita-01">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
 
-</p>
-
----
-
-# 🌍 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lakshita-01&style=for-the-badge&color=blueviolet"/>
+<a href="https://dev-portfolio-mocha-beta.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
+</a>
 
 </p>
 
