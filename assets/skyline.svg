@@ -1,0 +1,57 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" style="stop-color:#0f2027"/>
+<stop offset="50%" style="stop-color:#203a43"/>
+<stop offset="100%" style="stop-color:#2c5364"/>
+</linearGradient>
+
+<style>
+@keyframes glow {
+0% { opacity:0.6 }
+50% { opacity:1 }
+100% { opacity:0.6 }
+}
+
+.window{
+fill:#58a6ff;
+animation: glow 3s infinite;
+}
+</style>
+</defs>
+
+<rect width="900" height="220" fill="url(#bg)"/>
+
+<!-- buildings -->
+
+<rect x="50" y="120" width="60" height="100" fill="#1f6feb"/>
+<rect x="140" y="90" width="70" height="130" fill="#388bfd"/>
+<rect x="240" y="110" width="60" height="110" fill="#58a6ff"/>
+<rect x="330" y="70" width="80" height="150" fill="#1f6feb"/>
+<rect x="440" y="100" width="60" height="120" fill="#388bfd"/>
+<rect x="530" y="80" width="70" height="140" fill="#58a6ff"/>
+<rect x="630" y="120" width="60" height="100" fill="#1f6feb"/>
+<rect x="720" y="95" width="75" height="125" fill="#388bfd"/>
+
+<!-- windows -->
+
+<rect class="window" x="70" y="140" width="10" height="10"/>
+<rect class="window" x="160" y="120" width="10" height="10"/>
+<rect class="window" x="260" y="140" width="10" height="10"/>
+<rect class="window" x="360" y="110" width="10" height="10"/>
+<rect class="window" x="470" y="130" width="10" height="10"/>
+<rect class="window" x="560" y="110" width="10" height="10"/>
+<rect class="window" x="660" y="140" width="10" height="10"/>
+<rect class="window" x="750" y="120" width="10" height="10"/>
+
+<!-- title -->
+
+<text x="450" y="50" text-anchor="middle"
+font-size="28"
+fill="white"
+font-family="Verdana">
+Lakshita Gupta • Developer Skyline
+</text>
+
+</svg>
