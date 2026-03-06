@@ -19,6 +19,51 @@
 
 ---
 
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,django&theme=dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,mongodb,mysql,postgres&theme=dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github,vscode,postman&theme=dark" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,gcp,notion&theme=dark" />
+
+</p>
+
+
+
+---
+
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|-------|-------------|
+| DevPulse | Full stack project management |
+| Port.2109 | Personal dev portfolio |
+| Cold Email Optimizer | AI outreach optimization |
+| HireSense AI | ATS Resume Analyser |
+
+
+---
+
+
 # 🧠 AI Project Assistant
 
 I built an **AI assistant that answers questions about my projects, tech stack, and GitHub work.**
@@ -56,49 +101,6 @@ https://dev-portfolio-mocha-beta.vercel.app/
 ---
 
 
-<h2 align="center">⚡ Tech Stack</h2>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,django&theme=dark" />
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,mongodb,mysql,postgres&theme=dark" />
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github,vscode,postman&theme=dark" />
-
-</p>
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,gcp,notion&theme=dark" />
-
-</p>
-
-
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|-------|-------------|
-| DevPulse | Full stack project management |
-| Port.2109 | Personal dev portfolio |
-| Cold Email Optimizer | AI outreach optimization |
-| HireSense AI | ATS Resume Analyser |
-
----
-
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -109,6 +111,10 @@ https://dev-portfolio-mocha-beta.vercel.app/
 
 <a href="https://dev-portfolio-mocha-beta.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://www.linkedin.com/in/lakshita-gupta01">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
