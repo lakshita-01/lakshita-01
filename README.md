@@ -50,10 +50,11 @@ https://dev-portfolio-mocha-beta.vercel.app/
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/lakshita-01/lakshita-01/output/github-contribution-grid-snake.svg"/>
-
 </p>
+
+---
+
 
 <h2 align="center">⚡ Tech Stack</h2>
 
