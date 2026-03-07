@@ -23,4 +23,4 @@ jobs:
           SHOW_EDITORS: true
           SHOW_LANGUAGE: true
           SHOW_LINES_OF_CODE: true
-          SHOW_PROFILE_VIEWS: true
+          SHOW_PROFILE_VIEWS: false
