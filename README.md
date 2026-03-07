@@ -230,7 +230,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
-<details>
+<p>
   <summary>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
     <b>Stats Overview</b>
@@ -262,7 +262,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
       </a>
     </span>
   </div>
-</details>
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
