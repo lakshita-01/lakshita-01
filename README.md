@@ -55,10 +55,11 @@
 
 | Project | Description |
 |-------|-------------|
-| DevPulse | Full stack project management |
-| Port.2109 | Personal dev portfolio |
-| Cold Email Optimizer | AI outreach optimization |
-| HireSense AI | ATS Resume Analyser |
+| DevPulse | Full stack SaaS project management application |
+| Port.2109 | Personal portfolio |
+| Cold Email Optimizer | AI outreach optimizer |
+| Employee Attrition Predictor | Analyse Attrition Risk of Employees |
+| HireSense AI | ATS Resume Analyser& Corrector |
 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
