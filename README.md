@@ -108,9 +108,9 @@ https://dev-portfolio-mocha-beta.vercel.app/
 <h2 align="center">⏱ Weekly Coding Activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -153,20 +153,21 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     6 mins              ████████████░░░░░░░░░░░░░   49.72 % 
-JavaScript               5 mins              ██████████░░░░░░░░░░░░░░░   39.51 % 
-C++                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+C++                      44 mins             ███████████████████░░░░░░   75.36 % 
+HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shikh                    7 mins              ███████████████░░░░░░░░░░   58.22 % 
-devPulse-main            5 mins              ██████████░░░░░░░░░░░░░░░   41.78 % 
+shikh                    53 mins             ███████████████████████░░   90.60 % 
+devPulse-main            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -186,7 +187,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lakshita-01/lakshita-01/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2026 01:06:14 UTC
+ Last Updated on 03/04/2026 01:08:20 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
