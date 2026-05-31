@@ -108,7 +108,7 @@ https://dev-portfolio-mocha-beta.vercel.app/
 <h2 align="center">⏱ Weekly Coding Activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -153,17 +153,17 @@ Sunday                   32 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     39 mins             ██████████████████░░░░░░░   71.50 % 
-Python                   15 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+Text                     44 mins             ██████████████████░░░░░░░   73.51 % 
+Python                   15 mins             ███████░░░░░░░░░░░░░░░░░░   26.49 % 
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shikh                    55 mins             █████████████████████████   100.00 % 
+shikh                    1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -183,7 +183,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lakshita-01/lakshita-01/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2026 01:49:48 UTC
+ Last Updated on 31/05/2026 02:01:04 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
