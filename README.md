@@ -108,8 +108,6 @@ https://dev-portfolio-mocha-beta.vercel.app/
 <h2 align="center">⏱ Weekly Coding Activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.20%20million%20lines%20of%20code-blue?style=flat)
@@ -126,6 +124,45 @@ https://dev-portfolio-mocha-beta.vercel.app/
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+🌆 Daytime                86 commits          ████████░░░░░░░░░░░░░░░░░   31.16 % 
+🌃 Evening                167 commits         ███████████████░░░░░░░░░░   60.51 % 
+🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Tuesday                  44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Wednesday                57 commits          █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Friday                   61 commits          ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Saturday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Sunday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -143,7 +180,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lakshita-01/lakshita-01/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 01:52:00 UTC
+ Last Updated on 07/06/2026 02:06:05 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
