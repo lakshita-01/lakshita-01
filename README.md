@@ -108,7 +108,7 @@ https://dev-portfolio-mocha-beta.vercel.app/
 <h2 align="center">⏱ Weekly Coding Activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -116,7 +116,7 @@ https://dev-portfolio-mocha-beta.vercel.app/
 
 **🐱 My GitHub Data** 
 
-> 📦 176.2 kB Used in GitHub's Storage 
+> 📦 176.3 kB Used in GitHub's Storage 
  > 
 > 🏆 197 Contributions in the Year 2026
  > 
@@ -189,7 +189,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lakshita-01/lakshita-01/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2026 02:00:12 UTC
+ Last Updated on 14/06/2026 02:09:42 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
