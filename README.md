@@ -153,23 +153,16 @@ Sunday                   32 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               24 mins             ████████████░░░░░░░░░░░░░   46.80 % 
-CSS                      22 mins             ███████████░░░░░░░░░░░░░░   42.50 % 
-Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-multiport-main           47 mins             ███████████████████████░░   90.89 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-components               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Downloads                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-src                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -189,7 +182,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lakshita-01/lakshita-01/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2026 02:39:09 UTC
+ Last Updated on 20/06/2026 02:00:39 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
