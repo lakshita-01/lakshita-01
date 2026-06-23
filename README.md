@@ -116,7 +116,7 @@ https://dev-portfolio-mocha-beta.vercel.app/
 
 **🐱 My GitHub Data** 
 
-> 📦 176.3 kB Used in GitHub's Storage 
+> 📦 177.6 kB Used in GitHub's Storage 
  > 
 > 🏆 197 Contributions in the Year 2026
  > 
@@ -153,16 +153,23 @@ Sunday                   32 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               35 mins             ████████████░░░░░░░░░░░░░   47.81 % 
+Git Config               16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+HTML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+multiport-main           1 hr 12 mins        █████████████████████████   98.36 % 
+shikh                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Downloads                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -182,7 +189,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lakshita-01/lakshita-01/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2026 02:15:48 UTC
+ Last Updated on 23/06/2026 01:54:49 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
