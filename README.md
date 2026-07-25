@@ -124,45 +124,6 @@ https://dev-portfolio-mocha-beta.vercel.app/
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-🌆 Daytime                86 commits          ████████░░░░░░░░░░░░░░░░░   31.85 % 
-🌃 Evening                161 commits         ███████████████░░░░░░░░░░   59.63 % 
-🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Tuesday                  43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Wednesday                57 commits          █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Thursday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Friday                   61 commits          ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Sunday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -180,7 +141,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lakshita-01/lakshita-01/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 01:19:03 UTC
+ Last Updated on 25/07/2026 01:20:13 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
