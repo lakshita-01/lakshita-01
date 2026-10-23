@@ -155,45 +155,41 @@ Sunday                   32 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   22 mins             ██████████░░░░░░░░░░░░░░░   39.21 % 
-Text                     18 mins             ████████░░░░░░░░░░░░░░░░░   32.95 % 
-Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Python                   38 mins             ███████████████████░░░░░░   76.10 % 
+YAML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
 
 🔥 Editors: 
-VS Code                  53 mins             ████████████████████████░   94.54 % 
-Copilot CLI              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+VS Code                  47 mins             ███████████████████████░░   93.89 % 
+Codex Vscode             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🐱‍💻 Projects: 
-shikh                    44 mins             ████████████████████░░░░░   79.09 % 
-devPulse-main            6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-ai-service               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+shikh                    50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (85.89%)
+⏱ AI Coding Time: 9 mins (19.05%)
 
-✍️ 4 lines written by AI, 56 lines written by hand (6.67% AI-written)
+✍️ 0 lines written by AI, 89 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 20,016 Input Tokens, 2,736 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.01 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 22 AI Prompts
+🧠 2 AI Sessions, 25 AI Prompts
 
-GPT                      4 lines             █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.67% of written lines came from AI
-📚 Verbose Prompter — average 2,210 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 93.55% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 1,694 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -213,7 +209,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lakshita-01/lakshita-01/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 02:03:49 UTC
+ Last Updated on 23/10/2026 02:08:26 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
