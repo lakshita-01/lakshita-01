@@ -118,7 +118,7 @@ https://dev-portfolio-mocha-beta.vercel.app/
 
 **🐱 My GitHub Data** 
 
-> 📦 177.6 kB Used in GitHub's Storage 
+> 📦 177.7 kB Used in GitHub's Storage 
  > 
 > 🏆 197 Contributions in the Year 2026
  > 
@@ -155,41 +155,22 @@ Sunday                   32 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   38 mins             ███████████████████░░░░░░   76.10 % 
-YAML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+YAML                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  47 mins             ███████████████████████░░   93.89 % 
-Codex Vscode             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Copilot CLI              0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shikh                    50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (19.05%)
-
-✍️ 0 lines written by AI, 89 lines written by hand (0.0% AI-written)
-
-🔤 20,016 Input Tokens, 2,736 Output Tokens
-
-💵 $0.01 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 25 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,694 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -209,7 +190,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lakshita-01/lakshita-01/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 03:01:58 UTC
+ Last Updated on 30/10/2026 03:06:47 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
